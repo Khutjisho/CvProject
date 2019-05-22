@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+
+}
+</style>
+</head>
+<body>
+
+
+<h1><i>CURICULUM VITAE OF KHUTJISHO LIZZY TLADI</i> </h1>
+
+
+    <h2>PERSONAL INFORMATION</h2>
+   
+ 
+<table>
+    
+  <tr>
+    <td><b>Nationality</b></td>
+    <td>South African</td>
+ 
+  </tr>
+  
+  <tr>
+    <td><b>Identity Number</b></td>
+    <td>9103200658089</td>
+    
+  </tr>
+  <tr>
+    <td><b>Gender</b></td>
+    <td>Female</td>
+    
+  </tr>
+  <tr>
+    <td><b>Current Location</b></td>
+    <td>Midrand, Gauteng</td>
+    
+  </tr>
+  <tr>
+    <td><b>Contact Number</b></td>
+    <td>082 962 3773</td>
+   
+  </tr>
+  <tr>
+    <td><b>Email Address</b></td>
+    <td>Khutjishotladi@gmail.com</td>
+   
+  </tr>
+</table>
+
+<b></b>
+
+
+    <h2>EDUCATIONAL HISTORY</h2>
+    
+    <b></b>
+    <h4>TERTIARY QUALIFICATION</h4>
+   
+ 
+<table>
+    
+  <tr>
+    <td><b>Name of Instituion</b></td>
+    <td>Vaal University of Technology</td>
+ 
+  </tr>
+  
+  
+  <tr>
+    <td><b>Qualification</b></td>
+    <td>Information Technology</td>
+    
+  </tr>
+  <tr>
+    <td><b>Date Completed</b></td>
+    <td>2013</td>
+    
+</table>
+    
+    <b></b>
+    <h4>SECONDARY EDUCATIONAL QUALIFICATION</h4>
+   
+ 
+<table>
+    
+  <tr>
+    <td><b>Name of School</b></td>
+    <td>Piet N Aphane</td>
+ 
+  </tr>
+  
+  <tr>
+    <td><b>Qualification</b></td>
+    <td>Matric</td>
+    
+  </tr>
+ 
+  <tr>
+    <td><b>Date Completed</b></td>
+    <td>2013</td>
+    
+</table>
+
+<br>
+
+<h2>EMPLOYMENT HISTORY</h2>
+   
+ 
+<table>
+    
+  <tr>
+    <td><b>Company Name</b></td>
+    <td>Cornastone</td>
+ 
+  </tr>
+  
+  <tr>
+    <td><b>Date of Employment</b></td>
+    <td>April 2016 - October 2017</td>
+    
+  </tr>
+  <tr>
+    <td><b>Position Held</b></td>
+    <td>Software Tester</td>
+    
+  </tr>
+  
+  <tr>
+    <td><b>Reason for Leaving</b></td>
+    <td>Contract Expired</td>
+   
+  </tr>
+  <tr>
+    <td><b>Duties</b></td>
+    <td>
+    	<ul>
+    		<li>Test software functionality performance in respect of business rules and test cases.
+    		</li>
+            <li>Check and identify if the system is working according to the design specifications.
+    		</li>
+            <li>Identify, documents and report defects.
+    		</li>
+            <li>
+Create and update test procedures and test cases.
+    		</li>
+             <li>
+Create and update System User Manuals.
+    		</li>
+            
+    	</ul>
+    </td>
+       
+  </tr>
+   
+</table>
+
+ <h2>REFERENCE</h2>
+ 
+ <table>
+    
+  <tr>
+    <td><b>Name</b></td>
+    <td>Ms Z Khumalo</td>
+ 
+  </tr>
+  
+  <tr>
+    <td><b>Company</b></td>
+    <td>Cornastone</td>
+    
+  </tr>
+  <tr>
+    <td><b>Position</b></td>
+    <td>Senior Database Administrator</td>
+    
+  </tr>
+  <tr>
+    <td><b>Contact</b></td>
+    <td>012 663 0000</td>
+    
+</table>
+
+
+</body>
+</html>
